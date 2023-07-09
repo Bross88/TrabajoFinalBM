@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Trabajo Final BM\Trabajo Final BM\bin\Debug\net6.0\Trabajo Final BM.exe
+C:\Users\Usuario\source\repos\Trabajo Final BM\Trabajo Final BM\obj\Debug\net6.0\Trabajo Final BM.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Trabajo Final BM\Trabajo Final BM\obj\Debug\net6.0\Trabajo Final BM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Trabajo Final BM\Trabajo Final BM\obj\Debug\net6.0\Trabajo Final BM.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Trabajo Final BM\Trabajo Final BM\obj\Debug\net6.0\Trabajo Final BM.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Trabajo Final BM\Trabajo Final BM\obj\Debug\net6.0\Trabajo Final BM.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Trabajo Final BM\Trabajo Final BM\obj\Debug\net6.0\Trabajo Final BM.dll
+C:\Users\Usuario\source\repos\Trabajo Final BM\Trabajo Final BM\obj\Debug\net6.0\refint\Trabajo Final BM.dll
+C:\Users\Usuario\source\repos\Trabajo Final BM\Trabajo Final BM\obj\Debug\net6.0\Trabajo Final BM.pdb
+C:\Users\Usuario\source\repos\Trabajo Final BM\Trabajo Final BM\bin\Debug\net6.0\Trabajo Final BM.deps.json
+C:\Users\Usuario\source\repos\Trabajo Final BM\Trabajo Final BM\bin\Debug\net6.0\Trabajo Final BM.runtimeconfig.json
+C:\Users\Usuario\source\repos\Trabajo Final BM\Trabajo Final BM\bin\Debug\net6.0\Trabajo Final BM.dll
+C:\Users\Usuario\source\repos\Trabajo Final BM\Trabajo Final BM\bin\Debug\net6.0\Trabajo Final BM.pdb
+C:\Users\Usuario\source\repos\Trabajo Final BM\Trabajo Final BM\obj\Debug\net6.0\Trabajo Final BM.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Trabajo Final BM\Trabajo Final BM\obj\Debug\net6.0\ref\Trabajo Final BM.dll
